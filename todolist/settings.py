@@ -23,7 +23,7 @@ SECRET_KEY = 'uozc5*uppz5+7*u$ssnx2o=me3isw5+l6!8r*dc+3qcvna=oap'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://ozairsiraj.github.io/Todo-list/']
 
 
 # Application definition
